@@ -10,7 +10,7 @@ class Localizacion{
 				callback();
 			});
 		}else{
-			alert("Tu navegador ya está viejo :(!");
+			alert("Tu navegador no lo soporta!");
 		}
 	}
 
